@@ -1,7 +1,7 @@
 # Snake-Game
 I'd be glad to provide key points about your SnakeMania game code that you can highlight in your CV under the projects section:
 
-** SnakeMania - A Snake Game **
+**SnakeMania - A Snake Game**
 
 **Technologies Used:**
 
