@@ -27,5 +27,3 @@ I'd be glad to provide key points about your SnakeMania game code that you can h
 * If you've deployed the game online, provide a link to showcase its functionality.
 
 **Overall, SnakeMania demonstrates your proficiency in web development fundamentals using HTML, CSS, and JavaScript. It showcases your ability to create an interactive and engaging game with a well-defined structure, clear logic, and an emphasis on user experience.**
-
-By incorporating these key points and considering the optional suggestions, you can effectively highlight your SnakeMania project in your CV, demonstrating your technical skills and passion for web development.
