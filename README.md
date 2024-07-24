@@ -21,9 +21,4 @@ I'd be glad to provide key points about your SnakeMania game code that you can h
 * High Score Tracking: The game stores the highest achieved score in the browser's localStorage, allowing users to track their progress.
 * Engaging Audio: Sound effects for food consumption and game over, complemented by background music, enhance gameplay immersion.
 
-**Additional Considerations (Optional):**
-
-* Explain any potential improvements or further development plans you have in mind for the project.
-* If you've deployed the game online, provide a link to showcase its functionality.
-
 **Overall, SnakeMania demonstrates your proficiency in web development fundamentals using HTML, CSS, and JavaScript. It showcases your ability to create an interactive and engaging game with a well-defined structure, clear logic, and an emphasis on user experience.**
