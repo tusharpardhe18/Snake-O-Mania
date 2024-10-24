@@ -18,5 +18,3 @@
 * Smooth Animation: Leveraging `requestAnimationFrame` ensures a visually smooth game experience.
 * High Score Tracking: The game stores the highest achieved score in the browser's localStorage, allowing users to track their progress.
 * Engaging Audio: Sound effects for food consumption and game over, complemented by background music, enhance gameplay immersion.
-
-**Overall, SnakeMania demonstrates your proficiency in web development fundamentals using HTML, CSS, and JavaScript. It showcases your ability to create an interactive and engaging game with a well-defined structure, clear logic, and an emphasis on user experience.**
